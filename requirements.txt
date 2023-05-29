@@ -1,0 +1,6 @@
+pyrogram
+configparser
+telethon
+phone_iso3166
+validators
+sqlitedict
